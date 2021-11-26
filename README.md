@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peter-Willmott
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on memes
+- 💞️ I’m looking to collaborate on impactful and interesting projects
 - 📫 How to reach me: peter.will22@gmail.com
